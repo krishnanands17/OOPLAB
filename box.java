@@ -24,7 +24,7 @@ class Emp extends person
     int empid,sal;
     String com_name,qualification;
     Scanner sc=new Scanner(System.in);
-    emplye()
+    Emp()
     {
         System.out.println("Empolyee Details");
         System.out.println("Company Name:");
