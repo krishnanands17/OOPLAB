@@ -67,7 +67,7 @@ class teacher extends Emp{
         System.out.println(sal);
     }
 }
-public class Box {
+public class box {
     public static void main(String ...a)
     {
         Scanner sc=new Scanner(System.in);
