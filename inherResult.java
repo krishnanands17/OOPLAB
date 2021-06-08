@@ -1,4 +1,4 @@
-package com.company;
+
 import java.util.*;
 interface student {
     Scanner sc = new Scanner(System.in);
