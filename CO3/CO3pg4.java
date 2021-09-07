@@ -15,9 +15,13 @@ public class CO3pg4 extends Applet
 
         g.setColor(Color.green);
         g.fillPolygon(xPoints, yPoints, 3);
-	
-	g.setColor(Color.black);		
-	g.drawLine(10,10,100,100);
+
+        g.setColor(Color.black);
+        g.drawLine(10,10,100,100);
+
+        g.drawArc(60,125,80,40,180,180);
+        g.setColor(Color.CYAN);
+        g.fillArc(10,55,50,50,0,180);
 			
 			
 			
